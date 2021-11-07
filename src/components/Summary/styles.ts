@@ -8,7 +8,7 @@ export const Container = styled.div`
 
   div {
     background: var(--shape);
-    padding: 1rem 1.5rem;
+    padding: 1.2rem 1.2rem;
     border-radius: 0.25rem;
     color: var(--text-title);
  
@@ -20,10 +20,10 @@ export const Container = styled.div`
     }
     strong {
         display: block;
-        margin-top: 1rem;
-        font-size: 1.5rem;
+        margin-top: .8rem;
+        font-size: 1.3rem;
         font-weight:500;
-        line-height: 1.8rem;
+        line-height: 1.2rem;
   
     }
     &.highlight-backgroud{
