@@ -63,7 +63,7 @@ justify-content: center;
     width: 100%;
     max-width:576px;
     background: var(--background);
-    padding: 2rem;
+    padding: 3rem;
     position: relative;
     border-radius: .25rem;
 }
@@ -81,3 +81,5 @@ justify-content: center;
     }
 }
 `;
+
+
