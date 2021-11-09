@@ -66,7 +66,18 @@ justify-content: center;
     padding: 2rem;
     position: relative;
     border-radius: .25rem;
-
 }
+.react-modal-close{
+    position: absolute;
+    right:1rem;
+    top: 1.4rem;
+    border: 0;
+    background: transparent;
+    
+    transition:filter 0.2s;
 
-`
+    &:hover {
+        filter:brightness(0.7)
+    }
+}
+`;
